@@ -14,7 +14,7 @@ https://testnets.opensea.io/collection/dynamic-on-chain-nft-the-matrix
 
 ### This contract can save your trade mark on-
 
-This is a unique smart contract that allows you to store your logo or trademark on the on-chain blockchain. During the NFT minting process, input the following parameters: trademark name and your logo in SVG format without line breaks. Upon minting, you will receive your NFT with your logo.
+This is a unique smart contract that allows you to store your logo or trademark on the on-chain blockchain. During the NFT minting process, input the following parameters: trademark name and your logo in SVG format without line breaks. Upon minting, you will receive your NFT with your logo. Unlike IPFS services and other off-chain trademark storage options, our smart contract ensures that your intellectual property is protected by the blockchain itself. As long as there is at least one validator on the network, your rights are safeguarded. In other words, they are protected indefinitely.
 
 Successfully verified contract NftSvgOnChain on Etherscan.
 
